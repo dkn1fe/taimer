@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-text p {
+  font-size: 30px;
+}
+
+.header-time {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.days p,
+.hours p,
+.minutes p,
+.seconds p {
+  width: 8px;
+  background-color: rgb(89, 0, 255);
+  padding: 30px;
+  border-radius: 5px;
+  font-size: 20px;
+}/*# sourceMappingURL=style.css.map */
